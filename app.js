@@ -43,3 +43,11 @@ console.log("Completed tasks:", completedTasks);
 
 // SO NOW MOVING TO DATATYPES
 Number,String, Boolean, null, undefined
+
+// let taskName = "Productivity tasks";
+// let isTaskscomplted = true;
+// const NumberTasks = 3;
+
+// console.log(typeof tasks);
+// console.log(typeof completedTasks);
+// console.log(typeof NumberTasks);
